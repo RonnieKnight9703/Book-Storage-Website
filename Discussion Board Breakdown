@@ -1,5 +1,6 @@
 We decided to implement a plugin system known as Kunena. This essentially creates an enviroment where users can create topics and have discussions in a Reddit style experience.
 The moderators will be able to watch over the discussions and respond to any reported comments as well as remove any offensive material.
+Reports will be sent to a designated email where the moderators are notified the moment that the report is submitted.
 Essentially a user creates a topic in the correct channel (moderators will move topic if it is wrong channel) and a discussion through comments can begin. Users
 can quote other comments, give them likes, and even edit their own comments after posting.
 
