@@ -1,0 +1,32 @@
+<html>
+<head>
+<title>Insert Book Form</title>
+</head>
+
+<body>
+<form action="add_Books.php" method="post">
+
+<table border=0>
+<tr><td>ISBN</td>
+<td><input type=int name=ISBN maxlength=13 size=13><br></td></tr>
+<tr><td>Book Title</td>
+<td><input type=tinytext name=Book_Title maxlength=200 size=25><br></td></tr>
+<tr><td>Book Author</td>
+<td><input type=tinytext name=Book_Author maxlength=200 size=25><br></td></tr>
+<tr><td>Year Released</td>
+<td><input type=int name=Year_Released maxlength=4 size=4><br></td></tr>
+<tr><td>Library Name</td>
+<td><input type=tinytext name=Library_Name maxlength=200 size=25><br></td></tr>
+<tr><td>Primary Genre</td>
+<td><input type=varchar name=Primary_Genre maxlength=25 size=25><br></td></tr>
+<tr><td>Rating</td>
+<td><input type=int name=Rating maxlength=1 size=1>(1-5)<br></td></tr>
+<tr><td>Comments</td>
+<td><textarea name=Comments rows=4 cols=40></textarea><br></td></tr>
+<tr><td>
+<input type=submit value="Update Database"></td></tr>
+</table>
+
+</form>
+</body>
+</html>
