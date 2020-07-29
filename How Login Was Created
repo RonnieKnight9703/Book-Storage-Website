@@ -1,0 +1,7 @@
+For the login system we desided to utilize the software that was available on the hosting site that we used. It allowed registaration and the creation of a unique 
+profile. With this we are able to control the fact that only registered members can add to the databse. 
+The user information is stored in a different databse from the Book databse.
+
+Joomla provides software where you can easily edit the different levels of users. As well as letting you edit the required information that is needed.
+We aske for a username, real name, and a email. The software also lets you choose how the account is verified. It can be varified through email, phone (if we asked for
+the number), or let it verify the account instantly. We decided to go ahead and allow instant verification for the purpose of this project.
