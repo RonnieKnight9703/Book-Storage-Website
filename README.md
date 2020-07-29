@@ -1,6 +1,13 @@
 # Book-Storage-Website
 Group Project for CSCI 440 - 01W
 
+Purpose:
+The purspose of this website was to create a enviroment where users can store information about books that they really like. As well as create discussions and have a
+growth in community surrounding books, authors, and whatever else comes to mind. Though this website is used for storing book information first, the secondary main goal
+was to create a enviroment where the community can foster discussions and kindredship. 
+
+Functions:
+
 add_Book.php is the script that will be adding the book to the database, it will be pulling the information
 from the book_insert_form.html.
 
