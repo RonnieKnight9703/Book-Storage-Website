@@ -1,0 +1,6 @@
+We created a forum where visitors can submit topics to the moderators. This forum will store all of the inputed topic suggestions that are suggested. 
+The forum is tied to a email specfically for the topic suggestions. A email will be sent to that address, alerting moderators to the suggestion. 
+Once a threshold of request are made for a particular or similar topics, a moderator will create a board for conversation involving that topic.
+
+The forum was created through a plugin called convert forums.
+The discussion boards are created and maintained through Kunena.
