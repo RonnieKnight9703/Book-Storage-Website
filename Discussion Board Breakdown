@@ -1,0 +1,7 @@
+We decided to implement a plugin system known as Kunena. This essentially creates an enviroment where users can create topics and have discussions in a Reddit style experience.
+The moderators will be able to watch over the discussions and respond to any reported comments as well as remove any offensive material.
+Essentially a user creates a topic in the correct channel (moderators will move topic if it is wrong channel) and a discussion through comments can begin. Users
+can quote other comments, give them likes, and even edit their own comments after posting.
+
+This will give users the experience to have live conversations without having to wait for a moderator to approve any topic that is proposed for the website.
+As well as promote a sense of community among the users.
