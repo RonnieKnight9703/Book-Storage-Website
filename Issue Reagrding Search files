@@ -1,0 +1,5 @@
+Information regarding the search functions.
+Though we created 3 different html forms we only have been able to work on a singular php form for search functions.
+This is due to the fact that we wanted to get one of the search functions working before we moved to the next.
+
+The goal was to acheive success with one and then just change the variables to better suit each unique search.
