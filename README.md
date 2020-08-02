@@ -46,4 +46,5 @@ getV2_Form.html: A simple button to allow the user to execute the function.
 insert_book_form.html: The user interface allowing the necessary information to be submitted. The information will
 be stripped and utilized by the add_Book.php function.
 
-search.php: Is the php script that takes the passed variable from the search html forms and attempts to search the database returning results. (Still under Construction)
+search.php: Is the php script that takes the passed variable from the search html forms and attempts to search the database returning results. 
+(Still under Construction)
